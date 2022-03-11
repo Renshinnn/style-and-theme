@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Game Spec</string>
+    <string name="describe">Penantian hampir berakhir! Musim PES Mobile berikutnya akan dimulai pada bulan Oktober dengan pembaruan PES 2021.
+Dengan menampilkan data pemain dan tim dari musim terbaru, PES 2021 menawarkan permainan sepak bola pada perangkat seluler yang tajam dan responsif berdasarkan pengalaman konsol yang dipuji sebagai "Permainan Olahraga Terbaik" E3 2019.</string>
+    <string name="release">15 September 2020</string>
+    <string name="developer">PES Production</string>
+    <string name="publisher">Konami</string>
+    <string name="platform">PlayStation 4, Microsoft Windows, Mobile Android/IOS</string>
+    <string name="genre">Permainan olahraga, Permainan simulasi</string>
+    <string name="requirement">Intel Core i5-3470 / AMD FX 4350, 8 GB RAM, Windows 8.1/10 - 64bit, NVIDIA GTX 670 / AMD Radeon HD 7870, 40 GB FREE DISK SPACE, 2048 MB VRAM DEDICATED</string>
+    <string name="creator">Ditulis oleh</string>
+    <string name="kuro_name">Kuro si Pemuda Pancasila</string>
+    <string name="download">Download</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_account">Accounts</string>
+</resources>
